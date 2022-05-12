@@ -18,9 +18,8 @@
 
 .main {
   width: 960px;
-  height: 1400px;
-  background-color: gold;
   display: flex;
+  justify-content: center;
   margin: 0 auto;
 }
 
@@ -33,7 +32,7 @@
 .blog {
   width: 500px;
   height: 1400px;
-  background-color: green
+  background-color: limegreen
 }
 
 .sidebar-right {
